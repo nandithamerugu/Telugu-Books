@@ -1,0 +1,2037 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="te">
+	<siteinfo>
+		<sitename>tewiki</sitename>
+		<dbname>indicwiki</dbname>
+		<base>https://tewiki.iiit.ac.in/index.php/%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF_%E0%B0%AA%E0%B1%87%E0%B0%9C%E0%B1%80</base>
+		<generator>MediaWiki 1.34.0</generator>
+		<case>first-letter</case>
+		<namespaces>
+			<namespace key="-2" case="first-letter">మీడియా</namespace>
+			<namespace key="-1" case="first-letter">ప్రత్యేక</namespace>
+			<namespace key="0" case="first-letter" />
+			<namespace key="1" case="first-letter">చర్చ</namespace>
+			<namespace key="2" case="first-letter">వాడుకరి</namespace>
+			<namespace key="3" case="first-letter">వాడుకరి చర్చ</namespace>
+			<namespace key="4" case="first-letter">Project</namespace>
+			<namespace key="5" case="first-letter">Project చర్చ</namespace>
+			<namespace key="6" case="first-letter">దస్త్రం</namespace>
+			<namespace key="7" case="first-letter">దస్త్రంపై చర్చ</namespace>
+			<namespace key="8" case="first-letter">మీడియావికీ</namespace>
+			<namespace key="9" case="first-letter">మీడియావికీ చర్చ</namespace>
+			<namespace key="10" case="first-letter">మూస</namespace>
+			<namespace key="11" case="first-letter">మూస చర్చ</namespace>
+			<namespace key="12" case="first-letter">సహాయం</namespace>
+			<namespace key="13" case="first-letter">సహాయం చర్చ</namespace>
+			<namespace key="14" case="first-letter">వర్గం</namespace>
+			<namespace key="15" case="first-letter">వర్గం చర్చ</namespace>
+			<namespace key="828" case="first-letter">మాడ్యూల్</namespace>
+			<namespace key="829" case="first-letter">మాడ్యూల్ చర్చ</namespace>
+			<namespace key="2300" case="first-letter">Gadget</namespace>
+			<namespace key="2301" case="first-letter">Gadget talk</namespace>
+			<namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+			<namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+			<namespace key="2600" case="first-letter">Topic</namespace>
+		</namespaces>
+	</siteinfo>
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500000</id>
+		<revision>
+			<id>500000</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="509">
+			
+{{Infobox book
+		| name		= మానేల అబిరామం
+		| author	= యద్దనపూడి సులోచనరాణి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   సికింద్రాబాద్
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు మానేల అబిరామం.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+యద్దనపూడి సులోచనరాణి వ్రాసిన  మానేల అబిరామం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా సికింద్రాబాద్ లో ప్రచురించబడింది.
+యద్దనపూడి సులోచనరాణి రచించిన మానేల అబిరామం పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 211 రూపాయిలు.
+
+			</text>
+			<sha1>2ke9ufdk35t2mxnx1mmblbkr69phqop</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500001</id>
+		<revision>
+			<id>500001</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="483">
+			
+{{Infobox book
+		| name		= మనోయబిరామమ్
+		| author	= యద్దనపూడి సులోచనరాణి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   సికింద్రాబాద్
+		| pub_date       =   nan
+		
+		
+	}}
+
+మనోయబిరామమ్ అనే పుస్తకాన్ని యద్దనపూడి సులోచనరాణి గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+యద్దనపూడి సులోచనరాణి వ్రాసిన  మనోయబిరామమ్ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా సికింద్రాబాద్ లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 211 రూపాయిలు.
+
+			</text>
+			<sha1>fy0tqy0eozlnr8ta96x090i52d076oe</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500002</id>
+		<revision>
+			<id>500002</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="480">
+			
+{{Infobox book
+		| name		= సెక్రటరీ
+		| author	= యద్దనపూడి సులోచనరాణి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   సికింద్రాబాద్
+		| pub_date       =   nan
+		
+		
+	}}
+
+సెక్రటరీ అనే పుస్తకాన్ని యద్దనపూడి సులోచనరాణి గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+యద్దనపూడి సులోచనరాణి వ్రాసిన  సెక్రటరీ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా సికింద్రాబాద్ లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 348 రూపాయిలు.
+
+			</text>
+			<sha1>ob39odngw7ftaltu6a9pyk4apou93t3</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500003</id>
+		<revision>
+			<id>500003</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="522">
+			
+{{Infobox book
+		| name		= మనసు చూపిన బాటా గృహ లక్ష్మి
+		| author	= ఆనంద రామం సి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   1914
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు మనసు చూపిన బాటా గృహ లక్ష్మి.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+ఆనంద రామం సి వ్రాసిన  మనసు చూపిన బాటా గృహ లక్ష్మి పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.1914 సంవత్సరంలో ఈ పుస్తకం ముద్రించబడినది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 28 రూపాయిలు.
+
+			</text>
+			<sha1>kmdzt9pke0cy3h13jw41iuvk480dnbd</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500004</id>
+		<revision>
+			<id>500004</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="440">
+			
+{{Infobox book
+		| name		= జీవితదర్శం
+		| author	= చలం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు జీవితదర్శం.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+చలం వ్రాసిన  జీవితదర్శం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+చలం రచించిన జీవితదర్శం పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 128 రూపాయిలు.
+
+			</text>
+			<sha1>n3p197j6bzndtldp6znuviyia1gkn3m</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500005</id>
+		<revision>
+			<id>500005</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="426">
+			
+{{Infobox book
+		| name		= దయ్యలు లేవు
+		| author	= లత
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+దయ్యలు లేవు అనే పుస్తకాన్ని లత గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+లత వ్రాసిన  దయ్యలు లేవు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 134 రూపాయిలు.
+
+			</text>
+			<sha1>gdl3e80fl9rmi9jexyptfc6n2oc21s0</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500006</id>
+		<revision>
+			<id>500006</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="406">
+			
+{{Infobox book
+		| name		= హంపి కన్యలు
+		| author	= చలం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు హంపి కన్యలు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+చలం వ్రాసిన  హంపి కన్యలు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.విజయవాడ లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 147 రూపాయిలు.
+
+			</text>
+			<sha1>3nz4r6qgvzee8y8msqaf6x2wrs00orj</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500007</id>
+		<revision>
+			<id>500007</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="465">
+			
+{{Infobox book
+		| name		= ప్రభావతీ ప్రధ్యుర్నుమ్
+		| author	= సూరన్న పింగళి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు ప్రభావతీ ప్రధ్యుర్నుమ్.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+సూరన్న పింగళి వ్రాసిన  ప్రభావతీ ప్రధ్యుర్నుమ్ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 167 రూపాయిలు.
+
+			</text>
+			<sha1>q4hifrk29k5q3eplapi6dsvaa1u3u6p</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500008</id>
+		<revision>
+			<id>500008</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="490">
+			
+{{Infobox book
+		| name		= వీడీ వీడని చిక్కులు
+		| author	= వీరాజీ
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+వీడీ వీడని చిక్కులు అనే పుస్తకాన్ని వీరాజీ గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+వీరాజీ వ్రాసిన  వీడీ వీడని చిక్కులు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+వీరాజీ రచించిన వీడీ వీడని చిక్కులు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 187 రూపాయిలు.
+
+			</text>
+			<sha1>mj9a3bydc26h8vruai3b1kknb9kzxbq</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500009</id>
+		<revision>
+			<id>500009</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="461">
+			
+{{Infobox book
+		| name		= శశాంక విజయము
+		| author	= వెంకటపతి వెంకటపతి సేసము
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు శశాంక విజయము.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+వెంకటపతి వెంకటపతి సేసము వ్రాసిన  శశాంక విజయము పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 188 రూపాయిలు.
+
+			</text>
+			<sha1>r2jh801e0owzbjkhc9f1twfm706321s</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500010</id>
+		<revision>
+			<id>500010</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="472">
+			
+{{Infobox book
+		| name		= పెళ్ళి చేయకుండా చూడు కధలు
+		| author	= కుటుంబరావు కె
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+పెళ్ళి చేయకుండా చూడు కధలు అనే పుస్తకాన్ని కుటుంబరావు కె గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+కుటుంబరావు కె వ్రాసిన  పెళ్ళి చేయకుండా చూడు కధలు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకం యొక్క ధర 190 రూపాయిలు.
+
+			</text>
+			<sha1>h60vx1a9psw0o2v49bivqyb4ccdq6wa</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500011</id>
+		<revision>
+			<id>500011</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="431">
+			
+{{Infobox book
+		| name		= నూరు షరతులు
+		| author	= మంజుశ్రీ
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు నూరు షరతులు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+మంజుశ్రీ వ్రాసిన  నూరు షరతులు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 244 రూపాయిలు.
+
+			</text>
+			<sha1>abpcbh4ikqqd775c5cq02tj6owwed4y</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500012</id>
+		<revision>
+			<id>500012</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="491">
+			
+{{Infobox book
+		| name		= శృంగార నైసధము
+		| author	= శ్రీనాధుడు
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+శృంగార నైసధము అనే పుస్తకాన్ని శ్రీనాధుడు గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+శ్రీనాధుడు వ్రాసిన  శృంగార నైసధము పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+శ్రీనాధుడు రచించిన శృంగార నైసధము పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 287 రూపాయిలు.
+
+			</text>
+			<sha1>5g0qrjxatti6n0qfv3io1uj0uxici4r</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500013</id>
+		<revision>
+			<id>500013</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="511">
+			
+{{Infobox book
+		| name		= మేఘాల మెలిముసుగు
+		| author	= మాలతీ చందూర్
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+మేఘాల మెలిముసుగు అనే పుస్తకాన్ని మాలతీ చందూర్ గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+మాలతీ చందూర్ వ్రాసిన  మేఘాల మెలిముసుగు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+మాలతీ చందూర్ రచించిన మేఘాల మెలిముసుగు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 151 రూపాయిలు.
+
+			</text>
+			<sha1>sb2d9hprc11vtwsh1j467cxjjxiokk7</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500014</id>
+		<revision>
+			<id>500014</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="588">
+			
+{{Infobox book
+		| name		= మా టివి మా పిల్లలు
+		| author	= రాధా రాధాకృష్ణ మూర్తి కాంతం నేని
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ
+		| pub_date       =   1949
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు మా టివి మా పిల్లలు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+రాధా రాధాకృష్ణ మూర్తి కాంతం నేని వ్రాసిన  మా టివి మా పిల్లలు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా విజయవాడ లో ప్రచురించబడింది.1949 సంవత్సరంలో ఈ పుస్తకం ముద్రించబడినది.
+రాధా రాధాకృష్ణ మూర్తి కాంతం నేని రచించిన మా టివి మా పిల్లలు పుస్తకంలో 384.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 52 రూపాయిలు.
+
+			</text>
+			<sha1>a1u6gpfg54l8nsnf1ysegjeqo0anezk</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500015</id>
+		<revision>
+			<id>500015</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="472">
+			
+{{Infobox book
+		| name		= సోముని డప్పు
+		| author	= శివరామకరంతో
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు సోముని డప్పు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+శివరామకరంతో వ్రాసిన  సోముని డప్పు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+శివరామకరంతో రచించిన సోముని డప్పు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 119 రూపాయిలు.
+
+			</text>
+			<sha1>g8gdsjfp7czcregp71bugeyrev0nh9v</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500016</id>
+		<revision>
+			<id>500016</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="411">
+			
+{{Infobox book
+		| name		= మైదానం
+		| author	= చలం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+మైదానం అనే పుస్తకాన్ని చలం గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+చలం వ్రాసిన  మైదానం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 131 రూపాయిలు.
+
+			</text>
+			<sha1>liidok1b7sxg37xextcls3e6xczgiq7</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500017</id>
+		<revision>
+			<id>500017</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="447">
+			
+{{Infobox book
+		| name		= రెండోపెళ్ళి
+		| author	= భూపతి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు రెండోపెళ్ళి.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+భూపతి వ్రాసిన  రెండోపెళ్ళి పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+భూపతి రచించిన రెండోపెళ్ళి పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 142 రూపాయిలు.
+
+			</text>
+			<sha1>m2iv0vuft929s9j0g0frwuhnbh159e4</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500018</id>
+		<revision>
+			<id>500018</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="489">
+			
+{{Infobox book
+		| name		= సహజీవన సౌభాగ్యం
+		| author	= అవసరాల రామకృష్ణారావు
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+సహజీవన సౌభాగ్యం అనే పుస్తకాన్ని అవసరాల రామకృష్ణారావు గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+అవసరాల రామకృష్ణారావు వ్రాసిన  సహజీవన సౌభాగ్యం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 143 రూపాయిలు.
+
+			</text>
+			<sha1>b2cze42lzjh966zqz7fwjqqez3qib4u</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500019</id>
+		<revision>
+			<id>500019</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="474">
+			
+{{Infobox book
+		| name		= స్వీట్ హొం
+		| author	= రంగనాయకమ్మ ముప్పాల
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+స్వీట్ హొం అనే పుస్తకాన్ని రంగనాయకమ్మ ముప్పాల గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+రంగనాయకమ్మ ముప్పాల వ్రాసిన  స్వీట్ హొం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 144 రూపాయిలు.
+
+			</text>
+			<sha1>a8dkle9m1p6ln1om72mr3y6t15ytly9</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500020</id>
+		<revision>
+			<id>500020</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="441">
+			
+{{Infobox book
+		| name		= మహానగరంలో స్త్రీ
+		| author	= లత
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+మహానగరంలో స్త్రీ అనే పుస్తకాన్ని లత గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+లత వ్రాసిన  మహానగరంలో స్త్రీ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 145 రూపాయిలు.
+
+			</text>
+			<sha1>s47rpfsbk4mxb7ma0nq7kr0l85ro082</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500021</id>
+		<revision>
+			<id>500021</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="446">
+			
+{{Infobox book
+		| name		= హంపీ కన్యలు
+		| author	= చలం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+హంపీ కన్యలు అనే పుస్తకాన్ని చలం గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+చలం వ్రాసిన  హంపీ కన్యలు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+చలం రచించిన హంపీ కన్యలు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 148 రూపాయిలు.
+
+			</text>
+			<sha1>3nhw1au65dpto2rthun6aiwlcft8xnb</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500022</id>
+		<revision>
+			<id>500022</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="442">
+			
+{{Infobox book
+		| name		= లావణ్య
+		| author	= మాలతీ చందూర్
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు లావణ్య.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+మాలతీ చందూర్ వ్రాసిన  లావణ్య పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+మాలతీ చందూర్ రచించిన లావణ్య పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 160 రూపాయిలు.
+
+			</text>
+			<sha1>88v9o3a887kxteccqyb1ewm2y9hwkaq</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500023</id>
+		<revision>
+			<id>500023</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="486">
+			
+{{Infobox book
+		| name		= శృతి తప్పిన రాగలు
+		| author	= రాజా మన్నారు
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు శృతి తప్పిన రాగలు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+రాజా మన్నారు వ్రాసిన  శృతి తప్పిన రాగలు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+రాజా మన్నారు రచించిన శృతి తప్పిన రాగలు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 160 రూపాయిలు.
+
+			</text>
+			<sha1>gwhhrkge078btmugyhuu6vhhmj5d273</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500024</id>
+		<revision>
+			<id>500024</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="427">
+			
+{{Infobox book
+		| name		= కళ్యాణ గడియ
+		| author	= వివేకానంద
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు కళ్యాణ గడియ.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+వివేకానంద వ్రాసిన  కళ్యాణ గడియ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 160 రూపాయిలు.
+
+			</text>
+			<sha1>nqw4ymevwo3pva280w49ls0tvv2llwz</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500025</id>
+		<revision>
+			<id>500025</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="483">
+			
+{{Infobox book
+		| name		= వైజయంతి విలాసం
+		| author	= తమ్మయ్య సారంగం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు వైజయంతి విలాసం.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+తమ్మయ్య సారంగం వ్రాసిన  వైజయంతి విలాసం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+తమ్మయ్య సారంగం రచించిన వైజయంతి విలాసం పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 172 రూపాయిలు.
+
+			</text>
+			<sha1>8b4s80c6df1w10t6y60lp6cqymwydqo</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500026</id>
+		<revision>
+			<id>500026</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="473">
+			
+{{Infobox book
+		| name		= ఏమ్ టారిఫ్ నో ఇంపార్టెంట్స్
+		| author	= భీనాదేవి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు ఏమ్ టారిఫ్ నో ఇంపార్టెంట్స్.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+భీనాదేవి వ్రాసిన  ఏమ్ టారిఫ్ నో ఇంపార్టెంట్స్ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 175 రూపాయిలు.
+
+			</text>
+			<sha1>7yw10sryrirg3qw4epx0e7ylqe9vq0u</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500027</id>
+		<revision>
+			<id>500027</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="447">
+			
+{{Infobox book
+		| name		= అదృష్ట చక్రం
+		| author	= హరికిషన్
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+అదృష్ట చక్రం అనే పుస్తకాన్ని హరికిషన్ గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+హరికిషన్ వ్రాసిన  అదృష్ట చక్రం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 176 రూపాయిలు.
+
+			</text>
+			<sha1>buz7i5vlmuoothkbljhaoc08qh0am4e</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500028</id>
+		<revision>
+			<id>500028</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="419">
+			
+{{Infobox book
+		| name		= కధాంజలి
+		| author	= చలం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు కధాంజలి.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+చలం వ్రాసిన  కధాంజలి పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+చలం రచించిన కధాంజలి పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 178 రూపాయిలు.
+
+			</text>
+			<sha1>oji5fth4j0tgm6ldzvtxu7iayfxmbk6</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500029</id>
+		<revision>
+			<id>500029</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="456">
+			
+{{Infobox book
+		| name		= గిరీశం ది గ్రేట్
+		| author	= కుటుంబరావు వి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు గిరీశం ది గ్రేట్.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+కుటుంబరావు వి వ్రాసిన  గిరీశం ది గ్రేట్ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 184 రూపాయిలు.
+
+			</text>
+			<sha1>9w0coo84coq91pysx5go3ecg8nxmavl</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500030</id>
+		<revision>
+			<id>500030</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="468">
+			
+{{Infobox book
+		| name		= స్నేహబంధం
+		| author	= సత్యనారాయణరావు అంగార
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+స్నేహబంధం అనే పుస్తకాన్ని సత్యనారాయణరావు అంగార గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+సత్యనారాయణరావు అంగార వ్రాసిన  స్నేహబంధం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 184 రూపాయిలు.
+
+			</text>
+			<sha1>dxyoiup79isjio5r67cogypz2abq92s</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500031</id>
+		<revision>
+			<id>500031</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="466">
+			
+{{Infobox book
+		| name		= జీవిత సమరంలో
+		| author	= వాసా మూర్తి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు జీవిత సమరంలో.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+వాసా మూర్తి వ్రాసిన  జీవిత సమరంలో పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+వాసా మూర్తి రచించిన జీవిత సమరంలో పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 192 రూపాయిలు.
+
+			</text>
+			<sha1>pr6ld3706tm0msn8i8ib02ezpnx5jw1</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500032</id>
+		<revision>
+			<id>500032</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="478">
+			
+{{Infobox book
+		| name		= ఒక విజేత ఆత్మకథ
+		| author	= అబ్దుల్ కలాం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు ఒక విజేత ఆత్మకథ.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+అబ్దుల్ కలాం వ్రాసిన  ఒక విజేత ఆత్మకథ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.విజయవాడ లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+అబ్దుల్ కలాం రచించిన ఒక విజేత ఆత్మకథ పుస్తకంలో 925.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 195 రూపాయిలు.
+
+			</text>
+			<sha1>1puocng3r91umtxqejacw7ov1j13aod</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500033</id>
+		<revision>
+			<id>500033</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="451">
+			
+{{Infobox book
+		| name		= యముడి ముందు చలం
+		| author	= చలం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు యముడి ముందు చలం.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+చలం వ్రాసిన  యముడి ముందు చలం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+చలం రచించిన యముడి ముందు చలం పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 197 రూపాయిలు.
+
+			</text>
+			<sha1>dw6o0u3twm2xzm8auidw0o22cmrygje</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500034</id>
+		<revision>
+			<id>500034</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="450">
+			
+{{Infobox book
+		| name		= సుఖం కోసం
+		| author	= వీరాజీ
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+సుఖం కోసం అనే పుస్తకాన్ని వీరాజీ గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+వీరాజీ వ్రాసిన  సుఖం కోసం పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+వీరాజీ రచించిన సుఖం కోసం పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 212 రూపాయిలు.
+
+			</text>
+			<sha1>tg6b04e1hrt5ekvgikms2jfrsww78dx</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500035</id>
+		<revision>
+			<id>500035</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="490">
+			
+{{Infobox book
+		| name		= వక్రగతులు ఇతర కధలు
+		| author	= రాజారాం ఎం
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు వక్రగతులు ఇతర కధలు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+రాజారాం ఎం వ్రాసిన  వక్రగతులు ఇతర కధలు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+రాజారాం ఎం రచించిన వక్రగతులు ఇతర కధలు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 224 రూపాయిలు.
+
+			</text>
+			<sha1>eb5344e2ppvfzxobviuj16197zxe515</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500036</id>
+		<revision>
+			<id>500036</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="456">
+			
+{{Infobox book
+		| name		= హౌస్ సర్జన్
+		| author	= వేణుగోపాలరావు కొమ్మూరి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు హౌస్ సర్జన్.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+వేణుగోపాలరావు కొమ్మూరి వ్రాసిన  హౌస్ సర్జన్ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 228 రూపాయిలు.
+
+			</text>
+			<sha1>f2pg7diwcgyr1v7sjwszlztpkfwmyns</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500037</id>
+		<revision>
+			<id>500037</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="525">
+			
+{{Infobox book
+		| name		= దింస్టెడ్ లోపల మనిషి
+		| author	= నరసింహము పివి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ
+		| pub_date       =   nan
+		
+		
+	}}
+
+దింస్టెడ్ లోపల మనిషి అనే పుస్తకాన్ని నరసింహము పివి గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+నరసింహము పివి వ్రాసిన  దింస్టెడ్ లోపల మనిషి పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా విజయవాడ లో ప్రచురించబడింది.
+నరసింహము పివి రచించిన దింస్టెడ్ లోపల మనిషి పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 752 రూపాయిలు.
+
+			</text>
+			<sha1>mqd4gnsfb90vkkk3jf3dgmy4k5cowbh</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500038</id>
+		<revision>
+			<id>500038</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="462">
+			
+{{Infobox book
+		| name		= వీధి వంచితులు
+		| author	= డి.కామేశ్వరి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+వీధి వంచితులు అనే పుస్తకాన్ని డి.కామేశ్వరి గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+డి.కామేశ్వరి వ్రాసిన  వీధి వంచితులు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 164 రూపాయిలు.
+
+			</text>
+			<sha1>9e7e9jwpc64i4268n2sntah8efoca4n</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500039</id>
+		<revision>
+			<id>500039</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="446">
+			
+{{Infobox book
+		| name		= ఏకలవ్యుడు
+		| author	= భీనాదేవి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ 2
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు ఏకలవ్యుడు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+భీనాదేవి వ్రాసిన  ఏకలవ్యుడు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.విజయవాడ 2 లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+భీనాదేవి రచించిన ఏకలవ్యుడు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 204 రూపాయిలు.
+
+			</text>
+			<sha1>6wmqru4z6jrqot3g0rcmcq8drucnsg0</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500040</id>
+		<revision>
+			<id>500040</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="473">
+			
+{{Infobox book
+		| name		= ఉరికొయ్య ఉయ్యాల
+		| author	= లల్లాదేవి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ 2
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు ఉరికొయ్య ఉయ్యాల.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+లల్లాదేవి వ్రాసిన  ఉరికొయ్య ఉయ్యాల పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.విజయవాడ 2 లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+లల్లాదేవి రచించిన ఉరికొయ్య ఉయ్యాల పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 244 రూపాయిలు.
+
+			</text>
+			<sha1>2w34pkd3z812p9ay0ouns4b94m1nbhg</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500041</id>
+		<revision>
+			<id>500041</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="501">
+			
+{{Infobox book
+		| name		= ప్రశాంత కుటీర్
+		| author	= ఆశాలత తోటకూర
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ 2
+		| pub_date       =   nan
+		
+		
+	}}
+
+ప్రశాంత కుటీర్ అనే పుస్తకాన్ని ఆశాలత తోటకూర గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+ఆశాలత తోటకూర వ్రాసిన  ప్రశాంత కుటీర్ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా విజయవాడ 2 లో ప్రచురించబడింది.
+ఆశాలత తోటకూర రచించిన ప్రశాంత కుటీర్ పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 259 రూపాయిలు.
+
+			</text>
+			<sha1>d0fv9ebmhyc4iwbfd08xry0auyyo7x8</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500042</id>
+		<revision>
+			<id>500042</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="440">
+			
+{{Infobox book
+		| name		= ఆత్మీయుడు
+		| author	= యద్దనపూడి సులోచనరాణి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   విజయవాడ
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు ఆత్మీయుడు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+యద్దనపూడి సులోచనరాణి వ్రాసిన  ఆత్మీయుడు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.విజయవాడ లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 166 రూపాయిలు.
+
+			</text>
+			<sha1>dhgtd0zi66ddnxtgbzohjn9kzgvub2h</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500043</id>
+		<revision>
+			<id>500043</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="532">
+			
+{{Infobox book
+		| name		= తాళి కావాలి
+		| author	= వెంకట సూర్యనారాయణ ఆకెళ్ల
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+తాళి కావాలి అనే పుస్తకాన్ని వెంకట సూర్యనారాయణ ఆకెళ్ల గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+వెంకట సూర్యనారాయణ ఆకెళ్ల వ్రాసిన  తాళి కావాలి పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+వెంకట సూర్యనారాయణ ఆకెళ్ల రచించిన తాళి కావాలి పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 96 రూపాయిలు.
+
+			</text>
+			<sha1>80xmlmj83lyp0q272ehy8s49gtu9tt7</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500044</id>
+		<revision>
+			<id>500044</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="477">
+			
+{{Infobox book
+		| name		= జీవన పల్లవి
+		| author	= విజయలక్ష్మి అంగార
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు జీవన పల్లవి.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+విజయలక్ష్మి అంగార వ్రాసిన  జీవన పల్లవి పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+విజయలక్ష్మి అంగార రచించిన జీవన పల్లవి పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 112 రూపాయిలు.
+
+			</text>
+			<sha1>c0w9rxyvkgnswgqeml58smrtyerd7nb</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500045</id>
+		<revision>
+			<id>500045</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="471">
+			
+{{Infobox book
+		| name		= కోరికల అలలు
+		| author	= లక్ష్మీకుమారి ఎ
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు కోరికల అలలు.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+లక్ష్మీకుమారి ఎ వ్రాసిన  కోరికల అలలు పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+లక్ష్మీకుమారి ఎ రచించిన కోరికల అలలు పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 112 రూపాయిలు.
+
+			</text>
+			<sha1>g4y7v520v6ux6iw3e8yqsjqylt99jrv</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500046</id>
+		<revision>
+			<id>500046</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="468">
+			
+{{Infobox book
+		| name		= విధి ఎదురైతే
+		| author	= సాయి యర్రంశెట్టి
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+విధి ఎదురైతే అనే పుస్తకాన్ని సాయి యర్రంశెట్టి గారు రచించారు. ఈ పుస్తకం తెలుగుభాషలోనిది.
+సాయి యర్రంశెట్టి వ్రాసిన  విధి ఎదురైతే పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం ధర 118 రూపాయిలు.
+
+			</text>
+			<sha1>fob69quv3l9g3h81uxsym6aajjjf1uz</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500047</id>
+		<revision>
+			<id>500047</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="487">
+			
+{{Infobox book
+		| name		= నవత మానవత
+		| author	= గంగాధరరావు కొర్రపాటి డా
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు నవత మానవత.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+గంగాధరరావు కొర్రపాటి డా వ్రాసిన  నవత మానవత పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+గంగాధరరావు కొర్రపాటి డా రచించిన నవత మానవత పుస్తకంలో 894.0 పేజీలు ఉన్నాయి.ఈ పుస్తకం ధర 120 రూపాయిలు.
+
+			</text>
+			<sha1>ryvnyjly3uqdsfrb56z03j18ej9bjrm</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500048</id>
+		<revision>
+			<id>500048</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="449">
+			
+{{Infobox book
+		| name		= బ్రెయిన్ డ్రెయిన్
+		| author	= కవన శర్మ
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు బ్రెయిన్ డ్రెయిన్.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+కవన శర్మ వ్రాసిన  బ్రెయిన్ డ్రెయిన్ పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.ఈ పుస్తకం మొట్టమొదటిసారిగా మచిలీపట్నం లో ప్రచురించబడింది.
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 120 రూపాయిలు.
+
+			</text>
+			<sha1>lgmpn2admyr2onnmum95skfam1bwfsv</sha1>
+		</revision>
+	</page>
+	
+
+
+
+
+	<page>
+		<title>Telugu Heading</title>
+		<ns>0</ns>
+		<id>500049</id>
+		<revision>
+			<id>500049</id>
+			<timestamp>2022-08-20T01-33-17Z</timestamp>
+			<contributor>
+				<username>Harshavardhan</username>
+				<id>18105</id>
+			</contributor>
+			<comment>xmlpage created</comment>
+			<model>wikitext</model>
+			<format>text/x-wiki</format>
+			<text xml:space="preserve" bytes="465">
+			
+{{Infobox book
+		| name		= జీవితం గెలుపు నీదే
+		| author	= శారదా అశోకవర్ధన్
+		| language     = తెలుగు
+		| publisher		= ఎమెస్కో
+		| publisher2   =   మచిలీపట్నం
+		| pub_date       =   nan
+		
+		
+	}}
+
+ఈ పుస్తకం పేరు జీవితం గెలుపు నీదే.ఈ పుస్తకం తెలుగు భాషలో రచించబడినది.
+శారదా అశోకవర్ధన్ వ్రాసిన  జీవితం గెలుపు నీదే పుస్తకానికి ఎమెస్కో  ప్రచురణకర్త.మచిలీపట్నం లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది .
+ఈ పుస్తకంలో 894.0 కలిగి ఉన్నాయి.ఈ పుస్తకం యొక్క ధర 120 రూపాయిలు.
+
+			</text>
+			<sha1>7bf5o082jozed7m688rzkkxgbhc8vhx</sha1>
+		</revision>
+	</page>
+	
+
+</mediawiki>
