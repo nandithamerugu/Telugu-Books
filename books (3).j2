@@ -1,75 +1,160 @@
-{%- macro infobox(BookName, author, publisher,LANG_CODE,PLACE_OF_PUB,YEAR_OF_PUB) -%}
-	{{'{{Infobox book'}}
-		| name		= {{BookName}}
-		| author	= {{author}}
-		| language     = {{LANG_CODE}}
-		| publisher		= {{publisher}}
-		| publisher2   =   {{PLACE_OF_PUB}}
-		| pub_date       =   {{YEAR_OF_PUB}}
-		
-		
-	{{'}}\n'}}
+{%- macro infobox(BookName1,author1,publisher1,YEAR_OF_PUB,subject,subject1,subject2,subject3,ISBN,ITEM_RUPEES,BINDING) -%}
+{%- if BookName1 == 'nan' -%}
+    {%- set BookName1='' -%}
+{%- endif -%}
+
+{%- if author1 == 'nan' -%}
+    {%- set author1='' -%}
+{%- endif -%}
+
+{%- if publisher1 == 'nan' -%}
+    {%- set publisher1='' -%}
+{%- endif -%}
+
+{%- if YEAR_OF_PUB == 'nan' -%}
+    {%- set YEAR_OF_PUB='' -%}
+{%- endif -%}
+
+{%- if subject == 'nan' -%}
+    {%- set subject='' -%}
+{%- endif -%}
+
+{%- if subject1 == 'nan' -%}
+    {%- set subject1='' -%}
+{%- endif -%}
+
+{%- if subject2 == 'nan' -%}
+    {%- set subject2='' -%}
+{%- endif -%}
+
+{%- if subject3 == 'nan' -%}
+    {%- set subject3='' -%}
+{%- endif -%}
+
+{%- if ISBN == 'nan' -%}
+    {%- set ISBN='' -%}
+{%- endif -%}
+
+{%- if ITEM_RUPEES == 'nan' -%}
+    {%- set ITEM_RUPEES='' -%}
+{%- endif -%}
+
+{%- if BINDING == 'nan' -%}
+    {%- set BINDING='' -%}
+{%- endif -%}
+
+
+
+{{'{{సమాచారపెట్టె పుస్తకం'}}
+		| name = {{BookName1}}
+		| author = {{author1}}
+        | country = [[భారత దేశము]]
+        | language  = [[తెలుగు]]
+        | publisher  = {{publisher1}}, {{PLACE_OF_PUB}}
+        | pub_date  = {{YEAR_OF_PUB}}
+        | subject = {{subject}} {{subject1}} {{subject2}} {{subject3}}
+        | media_type  = {{BINDING}}
+        | isbn   = {{ISBN}}
+        | price   = {{ITEM_RUPEES}}
+	{{'}}'}}
 {%- endmacro -%}
 
-{%- macro Intro(BookName,author,LANG_CODE)-%}
-{%- set line =[
-			BookName + " అనే పుస్తకాన్ని " +author+" గారు రచించారు. "+
-			"ఈ పుస్తకం " + LANG_CODE +"భాషలోనిది." , "ఈ పుస్తకం పేరు "+ BookName + "."+ "ఈ పుస్తకం " + LANG_CODE +" భాషలో రచించబడినది."
-		]|random
-	-%}
-	{{line}}
-
-{%- endmacro -%}
-
-{%- macro History(BookName,author,publisher,PLACE_OF_PUB,YEAR_OF_PUB) -%} {#Add more sentences based on review#}
-    
-   
-
-	{%- if publisher != 'nan' -%}
-        {%- set line1= [author +" వ్రాసిన  "+BookName+" పుస్తకానికి "+publisher+"  ప్రచురణకర్త."] |join('') -%}
-        {{ [ line1 ] | random }}
+{%- macro Intro(BookName1, author1, LANG_CODE,PLACE_OF_PUB,publisher1,YEAR_OF_PUB,subject,subject1,subject2,subject3,ISBN) -%} 
+    {%- if author1 != 'nan' -%}
+        {%- set line1= [BookName1+" పుస్తకాన్ని "+author1+" రచించారు. "  ]| join('')  -%}
+        {%- set line2= [BookName1+" పుస్తకాన్ని "+author1+" రచించారు. " ]| join('')  -%}
+	    {{ [ line1,line2] | random }}
     {%- endif -%}
-
-	 {%- if PLACE_OF_PUB!= 'nan' -%}
-        {%- set line1= ["ఈ పుస్తకం మొట్టమొదటిసారిగా "+PLACE_OF_PUB+" లో ప్రచురించబడింది." , PLACE_OF_PUB + " లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది ." ] |random -%}
+    {%- if LANG_CODE != 'nan' -%}
+        {%- set line1= ["ఈ పుస్తకం " +LANG_CODE+" భాషలో రచించబడినది. "] |join('') -%}
+        {%- set line2= ["ఈ పుస్తకం " +LANG_CODE+" భాషలోనిది. " ] |join('') -%}
+	    {{ [ line1,line2] | random }}
+    {%- endif -%}
+    
+    {%- if publisher1 != 'nan' -%}
+        {%- if publisher1 == 'ఎమెస్కో' -%}
+            {%- set line1= ["ఈ పుస్తకానికి ప్రచురణకర్త [["+publisher1+"]]. "  ]| join('')  -%}
 	    {{ [ line1] | random }}
-	
-    {%- endif -%}
-    
-    {%- if YEAR_OF_PUB!= 'nan' -%}
-        {%- set line1= ["ఈ పుస్తకాన్ని "+ YEAR_OF_PUB + " సంవత్సరంలో ప్రచురించారు. " , YEAR_OF_PUB + " సంవత్సరంలో ఈ పుస్తకం ముద్రించబడినది." ] |random -%}
+        {%-else -%}
+            {%- set line1= ["ఈ పుస్తకానికి ప్రచురణకర్త "+publisher1+". "  ]| join('')  -%}
 	    {{ [ line1] | random }}
-	
+        {%- endif -%}
     {%- endif -%}
-
+    {%- if YEAR_OF_PUB != 'nan' -%}
+        {%- set line1= ["ఈ పుస్తకాన్ని "+ YEAR_OF_PUB + " సంవత్సరంలో ప్రచురించారు. "] |join('') -%}
+        {%- set line2= [YEAR_OF_PUB + " సంవత్సరంలో ఈ పుస్తకం ముద్రించబడినది. "] |join('') -%}
+	    {{ [ line1,line2] | random }}
+    {%- endif -%}
+    {%- if subject != 'nan' or subject1 != 'nan'or subject2 != 'nan' or subject3 != 'nan'-%}
+        {%- set line1= [BookName1 + " అనే ఈ పుస్తకం "] |join('') -%}
+        {{ [ line1 ] | random}}
+        {%- if (subject) != 'nan' and (subject2) != 'nan' -%}
+        {{subject}} మరియు {{subject2}} 
+        {%- elif (subject) != 'nan' and (subject1) != 'nan'-%}
+        {{subject}} మరియు {{subject1}} 
+        {%- elif (subject) != 'nan' and (subject3) != 'nan' -%}
+        {{subject}} మరియు {{subject3}}
+        {%- elif (subject) != 'nan' -%}
+        {{subject}}
+        {%- elif (subject1) != 'nan' -%}
+        {{subject1}}
+        {%- elif (subject2) != 'nan' -%}
+        {{subject2}}
+        {%- else -%}
+        {{subject3}}
+        {%- endif -%}
+        {%- set line2= [" విశేషాలకు సంబంధించినది. "] |join('') -%}
+        {{ [ line2 ]| random }}
+    {%- endif -%}
 {%- endmacro -%}
 
-{%- macro About(BookName,PAGINATION,ISBN,ITEM_RUPEES,author) -%} {#Add more sentences based on review#}
-    
-   {%- if PAGINATION != 'nan' -%}
-        {%- set line1= [author +" రచించిన "+BookName+" పుస్తకంలో "+PAGINATION+" పేజీలు ఉన్నాయి.", "ఈ పుస్తకంలో " + PAGINATION+" కలిగి ఉన్నాయి."  ] |random -%}
-        {{ [ line1 ] | random }}
-    {%- endif -%}
-
-   {%- if ISBN != 'nan' -%}
-        {%- set line1= ["ఈ పుస్తకం యొక్క అంతర్జాతీయ ప్రామాణిక పుస్తక సంఖ్య "+ ISBN + ".", ISBN+" అంతర్జాతీయ ప్రామాణిక పుస్తక సంఖ్య కలిగి ఉన్న పుస్తకం ఇది."
-] |random -%}
-        {{ [ line1 ] | random }}
-    {%- endif -%}
-
-  {%- if ITEM_RUPEES != 'nan' -%}
-        {%- set line1= ["ఈ పుస్తకం యొక్క ధర " + ITEM_RUPEES + " రూపాయిలు.", "ఈ పుస్తకం ధర " + ITEM_RUPEES +" రూపాయిలు."
- ] |random -%}
-        {{ [ line1 ] | random }}
-    {%- endif -%}
-
+{%- macro About(author1, publisher1, YEAR_OF_PUB, subject, subject1, subject2, subject3) -%}
+    {{"\n==రచన, నేపథ్యం==\n"}}
 {%- endmacro -%}
 
+{%- macro About1(PAGINATION,ITEM_RUPEES) -%}
+{{"\n==ఇతర వివరాలు==\n"}}
+{%- if PLACE_OF_PUB != 'nan' -%}
+        {%- set line1= [PLACE_OF_PUB+"లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది. "] |join('') -%}
+        {%- set line2= [PLACE_OF_PUB+"లో ఈ పుస్తకం మొదటి సారిగా ప్రచురించబడింది. "] |join('') -%}
+	    {{ [ line1,line2] | random }}
+    {%- endif -%}
+{%- if ISBN != 'nan' -%}
+        {%- set line1= [ISBN + " అంతర్జాతీయ ప్రామాణిక పుస్తక సంఖ్య కలిగి ఉన్న పుస్తకం ఇది. "] |join('') -%}
+        {%- set line2= [ISBN + " అంతర్జాతీయ ప్రామాణిక పుస్తక సంఖ్య కలిగి ఉన్న పుస్తకం ఇది. "] |join('') -%}
+	    {{ [ line1,line2] | random }}
+    {%- endif -%}
+{%- if PAGINATION != 'nan' -%}
+        {%- set line1= ["ఈ పుస్తకంలోని పేజీల సంఖ్య "+PAGINATION+". "] |join('') -%}
+        {{ [ line1 ] | random }}
+{%- endif -%}
+{%- if ITEM_RUPEES != 'nan' -%}
+        {%- set line1= ["ఈ పుస్తకం ధర "+ITEM_RUPEES+ " రూపాయిలు. "] |join('') -%}
+        {%- set line2= ["ఈ పుస్తకం ధర "+ITEM_RUPEES+" రూపాయిలు. "] |join('') -%}
+	    {{ [ line1,line2] | random }}
+    {%- endif -%}
+{%- endmacro -%}
 
-{#Main article is generated from here#}
+{%- macro get_these() -%}
+{{"\n==ఇవి కూడా చూడండి=="}}
+* [[ముఖ్యమైన తెలుగు పుస్తకాల జాబితా]]
+{%- endmacro -%}
 
-{{-infobox(BookName, author, publisher,LANG_CODE,PLACE_OF_PUB,YEAR_OF_PUB)}}
-{{Intro(BookName,author,LANG_CODE)}}
-{{ History(BookName,author,publisher,PLACE_OF_PUB,YEAR_OF_PUB) }}
-{{ About(BookName,PAGINATION,ISBN,ITEM_RUPEES,author) }}
-{# Code for References #}
+{%- macro get_ref(References) -%}
+{{"\n==మూలాలుు==\n"}}
+{%- if References == 'https://manjulindia.com/telugu.html' -%}
+1. https://manjulindia.com/telugu.html
+
+2. https://archive.org/details/books?&and[]=languageSorter%3A%22Telugu%22
+{%-else -%}
+{{References}}
+{%- endif -%}
+{%- endmacro -%}
+
+{{- infobox(BookName1,author1,publisher1,YEAR_OF_PUB,subject,subject1,subject2,subject3,ISBN,ITEM_RUPEES,BINDING)}}
+{{- Intro(BookName1, author1, LANG_CODE,PLACE_OF_PUB,publisher1,YEAR_OF_PUB,subject,subject1,subject2,subject3,ISBN)}}
+{{- About(author1, publisher1, YEAR_OF_PUB, subject, subject1, subject2, subject3)}}
+{{- About1(PAGINATION,ITEM_RUPEES)}}
+{{- get_these()}}
+{{- get_ref(References)}}
+[[వర్గం: తెవికీ తెలుగు పుస్తకాలు]]
